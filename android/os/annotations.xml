@@ -1,0 +1,5 @@
+<root>
+    <item name='android.os.Handler.Callback boolean handleMessage(android.os.Message) 0'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>

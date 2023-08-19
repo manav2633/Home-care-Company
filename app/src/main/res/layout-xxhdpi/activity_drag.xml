@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DragActivity">
+
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/slideViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"></androidx.viewpager.widget.ViewPager>
+
+    <LinearLayout
+        android:id="@+id/dotsLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="175dp"
+        android:layout_marginTop="540dp"
+
+        android:orientation="horizontal"></LinearLayout>
+
+    <Button
+        android:id="@+id/next"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="313dp"
+        android:layout_height="47dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="630dp"
+        android:background="@drawable/button_main"
+        android:text="Next"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>

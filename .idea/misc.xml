@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Home Services/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.12368421052631579" />
+        <entry key="..\:/Home Services/app/src/main/res/drawable/button.xml" value="0.12368421052631579" />
+        <entry key="..\:/Home Services/app/src/main/res/drawable/button_main.xml" value="0.12368421052631579" />
+        <entry key="..\:/Home Services/app/src/main/res/drawable/button_main1.xml" value="0.12368421052631579" />
+        <entry key="..\:/Home Services/app/src/main/res/drawable/button_pressed.xml" value="0.12368421052631579" />
+        <entry key="..\:/Home Services/app/src/main/res/drawable/button_pressed1.xml" value="0.12368421052631579" />
+        <entry key="..\:/Home Services/app/src/main/res/drawable/defualt.xml" value="0.12368421052631579" />
+        <entry key="..\:/Home Services/app/src/main/res/drawable/ic_launcher_background.xml" value="0.12368421052631579" />
+        <entry key="..\:/Home Services/app/src/main/res/drawable/price_main.xml" value="0.12368421052631579" />
+        <entry key="..\:/Home Services/app/src/main/res/drawable/price_normal.xml" value="0.12368421052631579" />
+        <entry key="..\:/Home Services/app/src/main/res/drawable/price_pressed.xml" value="0.12368421052631579" />
+        <entry key="..\:/Home Services/app/src/main/res/drawable/round_back.xml" value="0.12368421052631579" />
+        <entry key="..\:/Home Services/app/src/main/res/drawable/round_btn.xml" value="0.12368421052631579" />
+        <entry key="..\:/Home Services/app/src/main/res/drawable/round_button.xml" value="0.12368421052631579" />
+        <entry key="..\:/Home Services/app/src/main/res/drawable/round_button1.xml" value="0.12368421052631579" />
+        <entry key="..\:/Home Services/app/src/main/res/drawable/shadow.xml" value="0.12368421052631579" />
+        <entry key="..\:/Home Services/app/src/main/res/drawable/spalsh.xml" value="0.12368421052631579" />
+        <entry key="..\:/Home Services/app/src/main/res/font/font1.xml" value="0.13256578947368422" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-anydpi/activity_drag.xml" value="0.11133879781420765" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-anydpi/slide_layout.xml" value="0.14666666666666667" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-hdpi/activity_appointment.xml" value="0.4466666666666667" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-hdpi/activity_cleaner.xml" value="0.4466666666666667" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-hdpi/activity_create.xml" value="0.4466666666666667" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-hdpi/activity_drag.xml" value="0.22" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-hdpi/activity_electrician.xml" value="0.3412698412698413" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-hdpi/activity_forgot.xml" value="0.3333333333333333" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-hdpi/activity_login.xml" value="0.4466666666666667" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-hdpi/activity_painter.xml" value="0.3412698412698413" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-hdpi/activity_plumber.xml" value="0.3412698412698413" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-hdpi/activity_profile.xml" value="0.5" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-hdpi/activity_splash.xml" value="0.3333333333333333" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-hdpi/fragment_about.xml" value="0.5433070866141733" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-hdpi/fragment_calender.xml" value="0.3333333333333333" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-hdpi/fragment_home.xml" value="0.4466666666666667" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-hdpi/slide_layout.xml" value="0.22" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-hdpi/worker_item.xml" value="0.5" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-ldpi/activity_cleaner.xml" value="0.6255506607929515" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-ldpi/activity_drag.xml" value="0.6174242424242424" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-ldpi/slide_layout.xml" value="0.6174242424242424" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-ldpi/worker_item.xml" value="0.10666666666666667" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-mdpi/activity_cleaner.xml" value="0.4466666666666667" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-mdpi/activity_drag.xml" value="0.3333333333333333" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-mdpi/slide_layout.xml" value="0.10666666666666667" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-mdpi/worker_item.xml" value="0.4466666666666667" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-sw600dp/worker_item.xml" value="0.11133879781420765" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xhdpi/activity_appointment.xml" value="0.1" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xhdpi/activity_cleaner.xml" value="0.16666666666666666" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xhdpi/activity_create.xml" value="0.1" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xhdpi/activity_drag.xml" value="0.16666666666666666" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xhdpi/activity_electrician.xml" value="0.22" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xhdpi/activity_forgot.xml" value="0.1" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xhdpi/activity_login.xml" value="0.22" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xhdpi/activity_painter.xml" value="0.16666666666666666" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xhdpi/activity_plumber.xml" value="0.22" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xhdpi/activity_profile.xml" value="0.22" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xhdpi/activity_splash.xml" value="0.20199063231850117" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xhdpi/fragment_about.xml" value="0.3333333333333333" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xhdpi/fragment_calender.xml" value="0.3333333333333333" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xhdpi/fragment_home.xml" value="0.3333333333333333" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xhdpi/slide_layout.xml" value="0.22" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xhdpi/worker_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxhdpi/activity_appointment.xml" value="0.16666666666666666" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxhdpi/activity_cleaner.xml" value="0.16666666666666666" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxhdpi/activity_create.xml" value="0.1" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxhdpi/activity_drag.xml" value="0.16666666666666666" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxhdpi/activity_electrician.xml" value="0.16666666666666666" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxhdpi/activity_forgot.xml" value="0.14666666666666667" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxhdpi/activity_login.xml" value="0.14666666666666667" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxhdpi/activity_painter.xml" value="0.16666666666666666" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxhdpi/activity_plumber.xml" value="0.13333333333333333" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxhdpi/activity_profile.xml" value="0.16666666666666666" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxhdpi/activity_splash.xml" value="0.14666666666666667" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxhdpi/fragment_about.xml" value="0.22" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxhdpi/fragment_calender.xml" value="0.16666666666666666" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxhdpi/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxhdpi/slide_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxhdpi/worker_item.xml" value="0.22" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxxhdpi/activity_appointment.xml" value="0.14666666666666667" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxxhdpi/activity_cleaner.xml" value="0.12" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxxhdpi/activity_create.xml" value="0.1" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxxhdpi/activity_drag.xml" value="0.11133879781420765" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxxhdpi/activity_electrician.xml" value="0.10792349726775956" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxxhdpi/activity_forgot.xml" value="0.1" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxxhdpi/activity_login.xml" value="0.12" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxxhdpi/activity_painter.xml" value="0.10792349726775956" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxxhdpi/activity_plumber.xml" value="0.1431159420289855" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxxhdpi/activity_profile.xml" value="0.1" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxxhdpi/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxxhdpi/fragment_about.xml" value="0.10792349726775956" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxxhdpi/fragment_calender.xml" value="0.10792349726775956" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxxhdpi/fragment_home.xml" value="0.10792349726775956" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxxhdpi/slide_layout.xml" value="0.1" />
+        <entry key="..\:/Home Services/app/src/main/res/layout-xxxhdpi/worker_item.xml" value="0.14764492753623187" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/activity_appointment.xml" value="0.1" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/activity_cleaner.xml" value="0.1" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/activity_create.xml" value="0.1" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/activity_create_acttivity.xml" value="0.11348684210526316" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/activity_drag.xml" value="0.16666666666666666" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/activity_electrician.xml" value="0.1" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/activity_forgot.xml" value="0.14666666666666667" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/activity_intro.xml" value="0.14666666666666667" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/activity_login.xml" value="0.16666666666666666" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/activity_painter.xml" value="0.1" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/activity_plumber.xml" value="0.1" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/activity_profile.xml" value="0.16666666666666666" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/fragment_about.xml" value="0.13333333333333333" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/fragment_calender.xml" value="0.1" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/fragment_payment.xml" value="0.11348684210526316" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/fragment_profile.xml" value="0.11348684210526316" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/layout_screen.xml" value="0.14666666666666667" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/slide_layout.xml" value="0.1" />
+        <entry key="..\:/Home Services/app/src/main/res/layout/worker_item.xml" value="0.16666666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

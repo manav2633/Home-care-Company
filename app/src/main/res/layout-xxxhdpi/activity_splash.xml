@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashActivity">
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="155dp"
+        android:layout_height="155dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:background="@drawable/homecare"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.453" />
+
+    <LinearLayout
+        android:layout_width="250dp"
+        android:layout_height="115dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginRight="4dp"
+        android:id="@+id/homeCareLayout"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/imageView8"
+        app:layout_constraintTop_toTopOf="parent"
+        android:visibility="visible"
+        app:layout_constraintVertical_bias="0.469">
+
+
+        <TextView
+            android:id="@+id/homeCareView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" HOMECARE"
+            android:visibility="gone"
+            android:textColor="@color/homecare"
+            android:textSize="38sp" />
+
+        <TextView
+            android:id="@+id/companyView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="37sp"
+            android:visibility="gone"
+            android:textColor="@color/black"
+            android:text=" COMPANY" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
